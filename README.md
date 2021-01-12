@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/wanguano?template=classic&projects=1&projects.limit=4&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/wanguano?template=classic&config.timezone=Asia%2FShanghai)
